@@ -415,7 +415,7 @@
                 <li><i class="bi bi-check"></i> Acceso ilimitado a nuestra biblioteca de videojuegos para PC</li>
                 <li><i class="bi bi-check"></i> Descuentos exclusivos en juegos, accesorios y productos multimedia</li>
                 <li><i class="bi bi-check"></i> Soporte técnico prioritario por correo electrónico y chat en vivo</li>
-                <li><i class="bi bi-check"></i> PActualizaciones frecuentes de contenido con nuevos lanzamientos y títulos exclusivos</li>
+                <li><i class="bi bi-check"></i> Actualizaciones frecuentes de contenido con nuevos lanzamientos y títulos exclusivos</li>
                 <li><i class="bi bi-check"></i>Acceso prioritario a eventos y competiciones especiales de la comunidad</li>
               </ul>
               <a href="#" class="buy-btn">Compra Ahora</a>
