@@ -154,9 +154,9 @@
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
             <div class="icon flex-shrink-0"><i class="fa-solid fa-cart-flatbed"></i></div>
             <div>
-              <h4 class="title">Lorem Ipsum</h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-              <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
+              <h4 class="title">Computadoras potentes para todas tus necesidades</h4>
+              <p class="description">Descubre nuestra amplia selección de computadoras de alto rendimiento, diseñadas para satisfacer las demandas de tareas intensivas, edición de video, diseño gráfico y gaming.</p>
+              <a href="" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
           <!-- End Service Item -->
@@ -164,18 +164,18 @@
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
             <div class="icon flex-shrink-0"><i class="fa-solid fa-truck"></i></div>
             <div>
-              <h4 class="title">Dolor Sitema</h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-              <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
+              <h4 class="title">Sumérgete en la diversión con nuestros videojuegos</h4>
+              <p class="description">Explora nuestra amplia gama de videojuegos para todas las plataformas populares, incluyendo PC, consolas de última generación y dispositivos móviles.</p>
+              <a href="" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="icon flex-shrink-0"><i class="fa-solid fa-truck-ramp-box"></i></div>
             <div>
-              <h4 class="title">Sed ut perspiciatis</h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-              <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
+              <h4 class="title">Productos multimedia para una experiencia inmersiva</h4>
+              <p class="description">Descubre nuestra selección de productos multimedia, incluyendo televisores de alta definición, sistemas de sonido envolvente, proyectores y accesorios para mejorar tu experiencia audiovisual</p>
+              <a href="" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div><!-- End Service Item -->
 
@@ -190,34 +190,34 @@
 
         <div class="row gy-4">
           <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
-            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
+            <img src="https://images.unsplash.com/photo-1496381273223-e4ad4e99f5b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" class="img-fluid" alt="">
+            <a href="https://www.youtube.com/watch?v=RkC0l4iekYo&ab_channel=PlayStation" class="glightbox play-btn"></a>
           </div>
           <div class="col-lg-6 content order-last  order-lg-first">
-            <h3>About Us</h3>
+            <h3>Acerca de nosotros</h3>
             <p>
-              Dolor iure expedita id fuga asperiores qui sunt consequatur minima. Quidem voluptas deleniti. Sit quia molestiae quia quas qui magnam itaque veritatis dolores. Corrupti totam ut eius incidunt reiciendis veritatis asperiores placeat.
+            En TechZone, estamos comprometidos en ofrecer tecnología de vanguardia, entretenimiento digital y soluciones innovadoras para nuestros clientes. Desde nuestra fundación, nos hemos dedicado a proporcionar productos y servicios de alta calidad que mejoren la vida de las personas y brinden experiencias inigualables.
             </p>
             <ul>
               <li data-aos="fade-up" data-aos-delay="100">
                 <i class="bi bi-diagram-3"></i>
                 <div>
-                  <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                  <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
+                  <h5>Nuestra misión</h5>
+                  <p>En TechZone, nuestra misión es satisfacer las necesidades tecnológicas y de entretenimiento de nuestros clientes, ofreciendo productos de calidad, asesoramiento experto y un servicio excepcional. Nos esforzamos por ser líderes en la industria, brindando soluciones innovadoras que se adapten a las demandas en constante evolución del mercado.</p>
                 </div>
               </li>
               <li data-aos="fade-up" data-aos-delay="200">
                 <i class="bi bi-fullscreen-exit"></i>
                 <div>
-                  <h5>Magnam soluta odio exercitationem reprehenderi</h5>
-                  <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
+                  <h5>Nuestro equipo de expertos</h5>
+                  <p>Contamos con un equipo de profesionales apasionados y conocedores de la tecnología y los videojuegos. Nuestro equipo está constantemente actualizado con las últimas tendencias y avances en el campo de la tecnología, lo que nos permite brindar asesoramiento experto y recomendaciones personalizadas a nuestros clientes.</p>
                 </div>
               </li>
               <li data-aos="fade-up" data-aos-delay="300">
                 <i class="bi bi-broadcast"></i>
                 <div>
-                  <h5>Voluptatem et qui exercitationem</h5>
-                  <p>Et velit et eos maiores est tempora et quos dolorem autem tempora incidunt maxime veniam</p>
+                  <h5>Compromiso con la satisfacción del cliente</h5>
+                  <p>La satisfacción del cliente es nuestra máxima prioridad en TechZone. Nos esforzamos por superar las expectativas de nuestros clientes en cada interacción. Desde el momento en que ingresas a nuestra tienda o visitas nuestro sitio web, hasta el momento en que recibes tu pedido y más allá, nos comprometemos a brindarte un servicio excepcional y una experiencia de compra satisfactoria.</p>
                 </div>
               </li>
             </ul>
@@ -232,8 +232,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <span>Our Services</span>
-          <h2>Our Services</h2>
+          <span>Nuestro Sercicios</span>
+          <h2>Nuestro Sercicios</h2>
 
         </div>
 
@@ -242,60 +242,61 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/storage-service.jpg" alt="" class="img-fluid">
+                <img src="https://images.unsplash.com/photo-1591370874773-6702e8f12fd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Storage</a></h3>
-              <p>Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam repellendus temporibus itaqueofficiis odit</p>
+              <h3><a href="service-details.html" class="stretched-link">Computadoras y portátiles</a></h3>
+              <p>Descubre nuestra selección de computadoras de escritorio y portátiles de marcas líderes en la industria. Ya sea que necesites una potente computadora para tareas intensivas o una portátil para la movilidad, tenemos opciones para adaptarse a tus necesidades. </p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/logistics-service.jpg" alt="" class="img-fluid">
+                <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Logistics</a></h3>
-              <p>Asperiores provident dolor accusamus pariatur dolore nam id audantium ut et iure incidunt molestiae dolor ipsam ducimus occaecati nisi</p>
+              <h3><a href="service-details.html" class="stretched-link">Consolas y videojuegos</a></h3>
+              <p>Sumérgete en el mundo del entretenimiento digital con nuestras consolas de videojuegos y una amplia variedad de títulos para todas las plataformas populares. Desde las últimas consolas de PlayStation y Xbox hasta los juegos más emocionantes.</p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/cargo-service.jpg" alt="" class="img-fluid">
+                <img src="https://images.unsplash.com/photo-1615986200762-a1ed9610d3b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Cargo</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">
+              Productos multimedia</a></h3>
+              <p>Mejora tu experiencia audiovisual con nuestra selección de productos multimedia. Desde televisores de alta definición y sistemas de sonido envolvente hasta proyectores y accesorios, en TechZone tenemos todo lo necesario para crear un entorno de entretenimiento inmersivo en tu hogar.</p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/trucking-service.jpg" alt="" class="img-fluid">
+                <img src="https://images.unsplash.com/photo-1616248304589-6a3d8d60ad7d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Trucking</a></h3>
-              <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>
+              <h3><a href="service-details.html" class="stretched-link">Accesorios tecnológicos</a></h3>
+              <p>Complementa tus dispositivos con nuestros accesorios tecnológicos de alta calidad. Ofrecemos una amplia gama de opciones, que incluyen auriculares, altavoces portátiles, teclados, ratones y mucho más.</p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/packaging-service.jpg" alt="" class="img-fluid">
+                <img src="https://images.unsplash.com/photo-1616763355548-1b606f439f86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Packaging</a></h3>
-              <p>Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum onsequuntur maiores beatae consequatur magni voluptates</p>
+              <h3><a href="service-details.html" class="stretched-link">Componentes y periféricos</a></h3>
+              <p>Si estás buscando actualizar o personalizar tu computadora, en TechZone ofrecemos una variedad de componentes y periféricos de calidad. Desde tarjetas gráficas y discos duros hasta monitores y sistemas de refrigeración, tenemos todo lo que necesitas para llevar tu configuración al siguiente nivel.</p>
             </div>
           </div><!-- End Card Item -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/warehousing-service.jpg" alt="" class="img-fluid">
+                <img src="https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Warehousing</a></h3>
-              <p>Quas assumenda non occaecati molestiae. In aut earum sed natus eatae in vero. Ab modi quisquam aut nostrum unde et qui est non quo nulla</p>
+              <h3><a href="service-details.html" class="stretched-link">Servicios de reparación y mantenimiento</a></h3>
+              <p>Además de ofrecer productos, en TechZone también brindamos servicios de reparación y mantenimiento para tus dispositivos. Nuestro equipo de técnicos capacitados está listo para solucionar cualquier problema que puedas tener.</p>
             </div>
           </div><!-- End Card Item -->
 
@@ -310,9 +311,8 @@
 
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center">
-            <h3>Call To Action</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <a class="cta-btn" href="#">Call To Action</a>
+            <h3>En TechZone, te ofrecemos una amplia gama de productos y servicios de tecnología y entretenimiento de última generación! </p>
+            <a class="cta-btn" href="#">Explora Ahora</a>
           </div>
         </div>
 
@@ -329,16 +329,10 @@
             <img src="assets/img/features-1.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>Consejos y trucos tecnológicos</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            Descubre consejos útiles y trucos tecnológicos para aprovechar al máximo tus dispositivos y sacarles el máximo rendimiento. Aprende a optimizar la duración de la batería de tus dispositivos móviles, proteger tu privacidad en línea y mantener tu computadora funcionando sin problemas.
             </p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Ullam est qui quos consequatur eos accusamus.</li>
-            </ul>
           </div>
         </div><!-- Features Item -->
 
@@ -347,15 +341,12 @@
             <img src="assets/img/features-2.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
-            <h3>Corporis temporibus maiores provident</h3>
+            <h3>Tendencias en la industria de la tecnología</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            Mantente al día con las últimas tendencias en la industria de la tecnología, incluyendo avances en inteligencia artificial, realidad virtual, Internet de las cosas (IoT) y más.
             </p>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            Explora los últimos dispositivos y gadgets que están transformando nuestra forma de vivir, trabajar y divertirnos. Mantenerte informado sobre las tendencias tecnológicas te permitirá estar a la vanguardia y tomar decisiones más informadas al elegir tus productos y servicios.
             </p>
           </div>
         </div><!-- Features Item -->
@@ -365,13 +356,9 @@
             <img src="assets/img/features-3.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7">
-            <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
-            <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
-            <ul>
-              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
+            <h3>Reseñas de productos</h3>
+            <p>Lee nuestras reseñas detalladas de los últimos productos tecnológicos y de entretenimiento, incluyendo computadoras, consolas de videojuegos, dispositivos móviles y más.</p>
+           
           </div>
         </div><!-- Features Item -->
 
@@ -380,15 +367,12 @@
             <img src="assets/img/features-4.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
-            <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
+            <h3>Actualizaciones y noticias de la industria</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            Mantente informado sobre las últimas actualizaciones y noticias de la industria tecnológica y del entretenimiento. Te mantendremos al tanto de los lanzamientos de nuevos productos, eventos importantes, actualizaciones de software y otros acontecimientos relevantes.
             </p>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            Nuestro objetivo es mantenerte informado y ser tu fuente confiable de noticias tecnológicas para que puedas estar al tanto de los avances más recientes.
             </p>
           </div>
         </div><!-- Features Item -->
@@ -401,8 +385,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <span>Pricing</span>
-          <h2>Pricing</h2>
+          <span>Precios</span>
+          <h2>Precios</h2>
 
         </div>
 
@@ -410,46 +394,46 @@
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="pricing-item">
-              <h3>Free Plan</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
+              <h3>Básico</h3>
+              <h4><sup>$</sup>19.99<span> / mes</span></h4>
               <ul>
-                <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span></li>
-                <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+                <li><i class="bi bi-check"></i> Acceso ilimitado a nuestra biblioteca de videojuegos</li>
+                <li><i class="bi bi-check"></i> Descuentos exclusivos en juegos y accesorios</li>
+                <li><i class="bi bi-check"></i> Soporte técnico por correo electrónico</li>
+                <li class="na"><i class="bi bi-x"></i> <span>Actualizaciones regulares de contenido con nuevos lanzamientos</span></li>
+                <li class="na"><i class="bi bi-x"></i> <span>Acceso a nuestra comunidad de jugadores para participar en eventos y competiciones</span></li>
               </ul>
-              <a href="#" class="buy-btn">Buy Now</a>
+              <a href="#" class="buy-btn">Compra ahora</a>
             </div>
           </div><!-- End Pricing Item -->
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
             <div class="pricing-item featured">
-              <h3>Business Plan</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
+              <h3>Premium Plan</h3>
+              <h4><sup>$</sup>29<span> / mes</span></h4>
               <ul>
-                <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                <li><i class="bi bi-check"></i> Pharetra massa massa ultricies</li>
-                <li><i class="bi bi-check"></i> Massa ultricies mi quis hendrerit</li>
+                <li><i class="bi bi-check"></i> Acceso ilimitado a nuestra biblioteca de videojuegos para PC</li>
+                <li><i class="bi bi-check"></i> Descuentos exclusivos en juegos, accesorios y productos multimedia</li>
+                <li><i class="bi bi-check"></i> Soporte técnico prioritario por correo electrónico y chat en vivo</li>
+                <li><i class="bi bi-check"></i> PActualizaciones frecuentes de contenido con nuevos lanzamientos y títulos exclusivos</li>
+                <li><i class="bi bi-check"></i>Acceso prioritario a eventos y competiciones especiales de la comunidad</li>
               </ul>
-              <a href="#" class="buy-btn">Buy Now</a>
+              <a href="#" class="buy-btn">Compra Ahora</a>
             </div>
           </div><!-- End Pricing Item -->
 
           <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
             <div class="pricing-item">
-              <h3>Developer Plan</h3>
-              <h4><sup>$</sup>49<span> / month</span></h4>
+              <h3>Ultimate Plan</h3>
+              <h4><sup>$</sup>49<span> / mes</span></h4>
               <ul>
-                <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                <li><i class="bi bi-check"></i> Pharetra massa massa ultricies</li>
-                <li><i class="bi bi-check"></i> Massa ultricies mi quis hendrerit</li>
+                <li><i class="bi bi-check"></i> Acceso ilimitado a nuestra biblioteca completa de videojuegos para PC</li>
+                <li><i class="bi bi-check"></i> Descuentos exclusivos en juegos, accesorios y productos multimedia de alta gama</li>
+                <li><i class="bi bi-check"></i>Soporte técnico prioritario por correo electrónico, chat en vivo y teléfono</li>
+                <li><i class="bi bi-check"></i> Actualizaciones frecuentes de contenido</li>
+                <li><i class="bi bi-check"></i> Acceso exclusivo a eventos especiales</li>
               </ul>
-              <a href="#" class="buy-btn">Buy Now</a>
+              <a href="#" class="buy-btn">Compra Ahora</a>
             </div>
           </div><!-- End Pricing Item -->
 
