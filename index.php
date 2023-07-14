@@ -326,7 +326,7 @@
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
 
           <div class="col-md-5">
-            <img src="assets/img/features-1.jpg" class="img-fluid" alt="">
+            <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" class="img-fluid" alt="">
           </div>
           <div class="col-md-7">
             <h3>Consejos y trucos tecnológicos</h3>
@@ -338,7 +338,7 @@
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/features-2.jpg" class="img-fluid" alt="">
+            <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
             <h3>Tendencias en la industria de la tecnología</h3>
@@ -353,7 +353,7 @@
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5">
-            <img src="assets/img/features-3.jpg" class="img-fluid" alt="">
+            <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" class="img-fluid" alt="">
           </div>
           <div class="col-md-7">
             <h3>Reseñas de productos</h3>
@@ -364,7 +364,7 @@
 
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
           <div class="col-md-5 order-1 order-md-2">
-            <img src="assets/img/features-4.jpg" class="img-fluid" alt="">
+            <img src="https://images.unsplash.com/photo-1573162915939-26f51418051e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 order-2 order-md-1">
             <h3>Actualizaciones y noticias de la industria</h3>
@@ -452,14 +452,13 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <h3>Alejandro Rodríguez</h3>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  ¡Increíble experiencia de compra en TechZone! Pedí una computadora portátil y la entrega fue rápida y segura. El equipo de atención al cliente fue muy amable y resolvió todas mis dudas. Estoy muy contenta con mi compra y definitivamente recomendaré TechZone a mis amigos y familiares.
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -468,14 +467,13 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
+                <h3>María López</h3>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  Compré una consola PS5 en TechZone y no puedo estar más satisfecho. El proceso de compra fue sencillo y el envío llegó antes de lo esperado. La consola funciona perfectamente y el precio fue muy competitivo. Sin duda, volveré a comprar en TechZone para todas mis necesidades de videojuegos.
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -484,14 +482,13 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
+                <h3>Laura Martínez</h3>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  ¡Excelente servicio en TechZone! Adquirí un televisor de alta definición y estoy realmente impresionada con la calidad de imagen. El personal de la tienda fue muy atento y me ayudó a elegir el modelo perfecto para mis necesidades. Definitivamente, TechZone es mi tienda de confianza para productos de tecnología.
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -500,30 +497,13 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
+                <h3>Carlos Hernández</h3>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  TechZone superó mis expectativas. Compré un auricular gaming y la calidad del sonido es excepcional. El envío fue rápido y el producto llegó en perfectas condiciones. Además, el equipo de atención al cliente fue muy servicial al responder mis consultas. Estoy muy contento con mi compra y definitivamente volveré a comprar en TechZone.
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -541,8 +521,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <span>Frequently Asked Questions</span>
-          <h2>Frequently Asked Questions</h2>
+          <span>Preguntas Frecuentes</span>
+          <h2>Preguntas Frecuentes</h2>
 
         </div>
 
@@ -555,12 +535,12 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
                     <i class="bi bi-question-circle question-icon"></i>
-                    Non consectetur a erat nam at lectus urna duis?
+                    ¿Cuáles son las opciones de envío disponibles?
                   </button>
                 </h3>
                 <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                   <div class="accordion-body">
-                    Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                  Ofrecemos diferentes opciones de envío para adaptarnos a tus necesidades. Esto incluye envío estándar y envío express. Durante el proceso de compra, podrás seleccionar la opción de envío que mejor se ajuste a tus preferencias y ubicación.
                   </div>
                 </div>
               </div><!-- # Faq item-->
@@ -569,12 +549,12 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
                     <i class="bi bi-question-circle question-icon"></i>
-                    Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?
+                    ¿Cuál es su política de devoluciones y reembolsos?
                   </button>
                 </h3>
                 <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                   <div class="accordion-body">
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                  En TechZone, queremos garantizar tu satisfacción. Si por alguna razón no estás satisfecho con tu compra, aceptamos devoluciones dentro de los 30 días posteriores a la recepción del producto. Consulta nuestra política de devoluciones y reembolsos en nuestro sitio web para obtener más información sobre el proceso y los requisitos.
                   </div>
                 </div>
               </div><!-- # Faq item-->
@@ -583,12 +563,12 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
                     <i class="bi bi-question-circle question-icon"></i>
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?
+                    ¿Cómo puedo contactar al servicio al cliente de TechZone?
                   </button>
                 </h3>
                 <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                   <div class="accordion-body">
-                    Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                  Nuestro equipo de servicio al cliente está listo para ayudarte. Puedes comunicarte con nosotros a través de nuestro número de teléfono de atención al cliente, enviar un correo electrónico a nuestra dirección de contacto o utilizar el formulario de contacto en nuestro sitio web. Estaremos encantados de resolver tus consultas y brindarte la asistencia que necesitas.
                   </div>
                 </div>
               </div><!-- # Faq item-->
@@ -597,13 +577,13 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
                     <i class="bi bi-question-circle question-icon"></i>
-                    Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
+                    ¿Qué métodos de pago aceptan en TechZone?
                   </button>
                 </h3>
                 <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                   <div class="accordion-body">
                     <i class="bi bi-question-circle question-icon"></i>
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                    Aceptamos una amplia gama de métodos de pago para brindarte flexibilidad y comodidad. Puedes pagar con tarjetas de crédito y débito de diferentes emisores, como Visa, Mastercard y American Express. También ofrecemos la opción de pago a través de plataformas seguras en línea, como PayPal y Apple Pay.
                   </div>
                 </div>
               </div><!-- # Faq item-->
@@ -612,12 +592,12 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
                     <i class="bi bi-question-circle question-icon"></i>
-                    Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
+                    Tienen garantía en sus productos?
                   </button>
                 </h3>
                 <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                   <div class="accordion-body">
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+                  Sí, en TechZone ofrecemos garantía en todos nuestros productos. La duración de la garantía puede variar según el fabricante y el tipo de producto. Te recomendamos consultar la descripción del producto o comunicarte con nuestro equipo de servicio al cliente para obtener detalles específicos sobre la garantía de un producto en particular.
                   </div>
                 </div>
               </div><!-- # Faq item-->
