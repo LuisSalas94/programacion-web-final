@@ -28,6 +28,8 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
+  <link href="assets/css/game.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.all.min.js"></script>
 
 </head>
 
@@ -55,7 +57,7 @@
           <li><a href="computadoras.php">Computadoras</a></li>
           <li><a href="videojuegos.php">Videojuegos</a></li>
           <li><a href="multimedia.php" >Multimedia</a></li>
-          <li><a href="contact.php" class="active">Contacto2</a></li>
+          <li><a href="contact.php" class="active">Contacto</a></li>
           <li><a class="get-a-quote" href="get-a-quote.php">Get a Quote</a></li>
         </ul>
       </nav><!-- .navbar -->
@@ -87,6 +89,26 @@
         </div>
       </nav>
     </div><!-- End Breadcrumbs -->
+
+    <section id="juegoweb">
+    <div class="contenedor" >
+      <div class="puntaje" id="puntaje"></div>
+      <div class="encabezado">
+        <div class="categoria" id="categoria" style="display:none">
+        </div>
+        <div class="numero" id="numero" style="display:none"></div>
+        <div class="pregunta" id="pregunta">
+        </div>
+        <img src="#" class="imagen" id="imagen">
+      </div>
+      <div class="btn" id="btn1" onclick="oprimir_btn(0)"></div>
+      <div class="btn" id="btn2" onclick="oprimir_btn(1)"></div>
+      <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
+      <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
+      
+      <script src="index.js"></script>
+    </div>
+    </section>
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
