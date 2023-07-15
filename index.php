@@ -5,13 +5,15 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Logis Bootstrap Template - Index</title>
+  <title>TechZone</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,7 +23,7 @@
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+ <!--  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet"> -->
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -29,14 +31,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Logis
-  * Updated: May 30 2023 with Bootstrap v5.3.0
-  * Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
+  </head>
 
 <body>
 
@@ -52,7 +47,7 @@
       <a href="index.php" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1>Logis</h1>
+        <h1>TechZone</h1>
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -61,25 +56,9 @@
         <ul>
           <li><a href="index.php" class="active">Home</a></li>
           <li><a href="about.php">About</a></li>
-          <li><a href="services.php">Services</a></li>
+          <!-- <li><a href="services.php">Services</a></li> -->
+          <li><a href="multimedia.php">Multimedia</a></li>
           <li><a href="pricing.php">Pricing</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li>
           <li><a href="contact.php">Contact</a></li>
           <li><a class="get-a-quote" href="get-a-quote.php">Get a Quote</a></li>
         </ul>
@@ -94,41 +73,41 @@
     <div class="container">
       <div class="row gy-4 d-flex justify-content-between">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h2 data-aos="fade-up">Your Lightning Fast Delivery Partner</h2>
-          <p data-aos="fade-up" data-aos-delay="100">Facere distinctio molestiae nisi fugit tenetur repellat non praesentium nesciunt optio quis sit odio nemo quisquam. eius quos reiciendis eum vel eum voluptatem eum maiores eaque id optio ullam occaecati odio est possimus vel reprehenderit</p>
+          <h2 data-aos="fade-up">Bienvenido a TechZone: Tu Destino Tecnológico</h2>
+          <p data-aos="fade-up" data-aos-delay="100">¡Bienvenido a TechZone! Somos tu destino confiable para todas tus necesidades tecnológicas y de entretenimiento. En TechZone, nos apasiona ofrecerte productos de calidad, soluciones innovadoras y un servicio excepcional. Ya sea que estés buscando computadoras potentes, los últimos videojuegos o productos multimedia para una experiencia inmersiva, estamos aquí para ayudarte a encontrar lo que necesitas.</p>
 
           <form action="#" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
-            <input type="text" class="form-control" placeholder="ZIP code or CitY">
-            <button type="submit" class="btn btn-primary">Search</button>
+            <input type="text" class="form-control" placeholder="Busca lo que necesites">
+            <button type="submit" class="btn btn-primary">Buscar</button>
           </form>
 
           <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Clients</p>
+                <span data-purecounter-start="0" data-purecounter-end="500" data-purecounter-duration="1" class="purecounter"></span>
+                <p>Clientes</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Projects</p>
+                <span data-purecounter-start="0" data-purecounter-end="50" data-purecounter-duration="1" class="purecounter"></span>
+                <p>Laptops</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Support</p>
+                <span data-purecounter-start="0" data-purecounter-end="55" data-purecounter-duration="1" class="purecounter"></span>
+                <p>Videojuegos</p>
               </div>
             </div><!-- End Stats Item -->
 
             <div class="col-lg-3 col-6">
               <div class="stats-item text-center w-100 h-100">
-                <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Workers</p>
+                <span data-purecounter-start="0" data-purecounter-end="40" data-purecounter-duration="1" class="purecounter"></span>
+                <p>Dispositivos multimedia</p>
               </div>
             </div><!-- End Stats Item -->
 
@@ -152,7 +131,7 @@
         <div class="row gy-4">
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-            <div class="icon flex-shrink-0"><i class="fa-solid fa-cart-flatbed"></i></div>
+            <div class="icon flex-shrink-0"><i class="fa-solid fa-computer"></i></div>
             <div>
               <h4 class="title">Computadoras potentes para todas tus necesidades</h4>
               <p class="description">Descubre nuestra amplia selección de computadoras de alto rendimiento, diseñadas para satisfacer las demandas de tareas intensivas, edición de video, diseño gráfico y gaming.</p>
@@ -162,7 +141,7 @@
           <!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class="fa-solid fa-truck"></i></div>
+            <div class="icon flex-shrink-0"><i class="fa-solid fa-gamepad"></i></div>
             <div>
               <h4 class="title">Sumérgete en la diversión con nuestros videojuegos</h4>
               <p class="description">Explora nuestra amplia gama de videojuegos para todas las plataformas populares, incluyendo PC, consolas de última generación y dispositivos móviles.</p>
@@ -171,7 +150,7 @@
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class="fa-solid fa-truck-ramp-box"></i></div>
+            <div class="icon flex-shrink-0"><i class="fa-solid fa-computer-mouse"></i></div>
             <div>
               <h4 class="title">Productos multimedia para una experiencia inmersiva</h4>
               <p class="description">Descubre nuestra selección de productos multimedia, incluyendo televisores de alta definición, sistemas de sonido envolvente, proyectores y accesorios para mejorar tu experiencia audiovisual</p>
@@ -232,8 +211,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <span>Nuestro Sercicios</span>
-          <h2>Nuestro Sercicios</h2>
+          <span>Nuestros Servicios</span>
+          <h2>Nuestros Servicios</h2>
 
         </div>
 
@@ -333,6 +312,9 @@
             <p class="fst-italic">
             Descubre consejos útiles y trucos tecnológicos para aprovechar al máximo tus dispositivos y sacarles el máximo rendimiento. Aprende a optimizar la duración de la batería de tus dispositivos móviles, proteger tu privacidad en línea y mantener tu computadora funcionando sin problemas.
             </p>
+            <p>
+            Nuestro equipo de expertos compartirá consejos prácticos y trucos ingeniosos para ayudarte a resolver problemas comunes y mejorar tu experiencia tecnológica.
+            </p>
           </div>
         </div><!-- Features Item -->
 
@@ -357,7 +339,11 @@
           </div>
           <div class="col-md-7">
             <h3>Reseñas de productos</h3>
-            <p>Lee nuestras reseñas detalladas de los últimos productos tecnológicos y de entretenimiento, incluyendo computadoras, consolas de videojuegos, dispositivos móviles y más.</p>
+            <p class="fst-italic">
+            Lee nuestras reseñas detalladas de los últimos productos tecnológicos y de entretenimiento, incluyendo computadoras, consolas de videojuegos, dispositivos móviles y más.
+            </p>
+            <p>Nuestro equipo experto evaluará y analizará a fondo los productos para brindarte información objetiva sobre su rendimiento, características y relación calidad-precio.Las reseñas te ayudarán a tomar decisiones informadas al momento de comprar y te permitirán encontrar el producto perfecto que se ajuste a tus necesidades y preferencias.
+</p>
            
           </div>
         </div><!-- Features Item -->
@@ -619,9 +605,9 @@
       <div class="row gy-4">
         <div class="col-lg-5 col-md-12 footer-info">
           <a href="index.php" class="logo d-flex align-items-center">
-            <span>Logis</span>
+            <span>TechZone</span>
           </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+          <p>Somos tu destino tecnológico de confianza, donde encontrarás una amplia gama de productos y servicios para satisfacer tus necesidades tecnológicas y de entretenimiento.</p>
           <div class="social-links d-flex mt-4">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -631,35 +617,35 @@
         </div>
 
         <div class="col-lg-2 col-6 footer-links">
-          <h4>Useful Links</h4>
+          <h4>Enlaces útiles</h4>
           <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Terms of service</a></li>
-            <li><a href="#">Privacy policy</a></li>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Acerca de nosotros</a></li>
+            <li><a href="#">Preguntas Frecuentes</a></li>
+            <li><a href="#">Preguntas de privacidad</a></li>
+            <li><a href="#">Soporte Tecnico</a></li>
           </ul>
         </div>
 
         <div class="col-lg-2 col-6 footer-links">
-          <h4>Our Services</h4>
+          <h4>Nuestros servicios</h4>
           <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
+            <li><a href="#">Computadoras y portátiles</a></li>
+            <li><a href="#">Consolas y videojuegos</a></li>
+            <li><a href="#">Productos multimedia</a></li>
+            <li><a href="#">Accesorios tecnológicos</a></li>
+            <li><a href="#">Reparación y mantenimiento</a></li>
           </ul>
         </div>
 
         <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-          <h4>Contact Us</h4>
+          <h4>Contáctanos</h4>
           <p>
-            A108 Adam Street <br>
-            New York, NY 535022<br>
-            United States <br><br>
-            <strong>Phone:</strong> +1 5589 55488 55<br>
-            <strong>Email:</strong> info@example.com<br>
+            Calle Lima <br>
+            123<br>
+            Peru <br><br>
+            <strong>Número de teléfono:</strong> +1 5589 55488 55<br>
+            <strong>Correo electrónico:</strong> info@techzone.com.pe<br>
           </p>
 
         </div>
@@ -669,14 +655,10 @@
 
     <div class="container mt-4">
       <div class="copyright">
-        &copy; Copyright <strong><span>Logis</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span></span></strong>. All Rights Reserved
       </div>
       <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+         Examen Final - Programacion Web I
       </div>
     </div>
 
