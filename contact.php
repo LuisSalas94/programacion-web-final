@@ -54,7 +54,7 @@
       <nav id="navbar" class="navbar">
         <ul>
         <li><a href="index.php">Home</a></li>
-          <li><a href="computadoras.php">Computadoras</a></li>
+          <li><a href="computo.php">Computo</a></li>
           <li><a href="videojuegos.php">Videojuegos</a></li>
           <li><a href="multimedia.php" >Multimedia</a></li>
           <li><a href="contact.php" class="active">Contacto</a></li>
@@ -148,6 +148,7 @@
 
           </div>
 
+          <!-- Formulario -->
           <div class="col-lg-8">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">

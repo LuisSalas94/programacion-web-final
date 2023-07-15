@@ -52,7 +52,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a href="index.php">Home</a></li>
-          <li><a href="computadoras.php">Computadoras</a></li>
+          <li><a href="computo.php">Computo</a></li>
           <li><a href="videojuegos.php">Videojuegos</a></li>
           <li><a href="multimedia.php" class="active">Multimedia</a></li>
           <li><a href="contact.php">Contacto</a></li>
@@ -107,7 +107,7 @@
               <div class="card-img">
                 <img src="assets/img/multimedia/tv_lg.jpeg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">LG OLED65C1PUB</a></h3>
+              <h3><a href="#" class="stretched-link">LG OLED65C1PUB</a></h3>
               <p>Televisor OLED de 65 pulgadas con resolución 4K, tecnología de inteligencia artificial ThinQ AI, compatible con HDR Dolby Vision, Dolby Atmos, y webOS 6.0 para una experiencia de visualización inmersiva.</p>
             </div>
           </div><!-- End Card Item -->
@@ -117,7 +117,7 @@
               <div class="card-img">
                 <img src="assets/img/multimedia/aur_sony.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Sony WH-1000XM4</a></h3>
+              <h3><a href="#" class="stretched-link">Sony WH-1000XM4</a></h3>
               <p>Auriculares inalámbricos con cancelación de ruido líder en la industria, sonido envolvente, sensor de proximidad, batería de larga duración y compatibilidad con asistentes de voz.</p>
             </div>
           </div><!-- End Card Item -->
@@ -127,7 +127,7 @@
               <div class="card-img">
                 <img src="assets/img/multimedia/prl_bose.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Bose SoundLink Revolve+</a></h3>
+              <h3><a href="#" class="stretched-link">Bose SoundLink Revolve+</a></h3>
               <p>Parlante Bluetooth portátil con sonido envolvente de 360 grados, resistente al agua, batería de hasta 16 horas de reproducción, micrófono incorporado para realizar llamadas y asistente de voz integrado.</p>
             </div>
           </div><!-- End Card Item -->
@@ -137,7 +137,7 @@
               <div class="card-img">
                 <img src="assets/img/multimedia/mcr_rode.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Rode NT-USB</a></h3>
+              <h3><a href="#" class="stretched-link">Rode NT-USB</a></h3>
               <p>Micrófono de estudio USB con calidad de sonido profesional, patrón polar cardioide, control de mezcla de auriculares y compatibilidad con PC, Mac y dispositivos iOS.</p>
             </div>
           </div><!-- End Card Item -->
@@ -147,7 +147,7 @@
               <div class="card-img">
                 <img src="assets/img/multimedia/tvsony.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Sony XBR65X900H</a></h3>
+              <h3><a href="#" class="stretched-link">Sony XBR65X900H</a></h3>
               <p>Televisor LED de 65 pulgadas con resolución 4K Ultra HD, compatible con HDR10, HLG y Dolby Vision, con tecnología de mejora de imagen X1 y sistema operativo Android TV para acceder a una amplia variedad de contenido.</p>
             </div>
           </div><!-- End Card Item -->
@@ -157,7 +157,7 @@
               <div class="card-img">
                 <img src="assets/img/multimedia/aur_apple.jpg" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Apple AirPods Pro</a></h3>
+              <h3><a href="#" class="stretched-link">Apple AirPods Pro</a></h3>
               <p>Auriculares inalámbricos con cancelación de ruido adaptativa, ajuste personalizable, resistencia al agua y al sudor, estuche de carga inalámbrica y acceso rápido a Siri.</p>
             </div>
           </div><!-- End Card Item -->
