@@ -54,10 +54,10 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a href="index.php" class="active">Home</a></li>
-          <li><a href="about.php">About</a></li>
+          <li><a href="computadoras.php">Computadoras</a></li>
           <li><a href="videojuegos.php">Videojuegos</a></li>
           <li><a href="multimedia.php">Multimedia</a></li>
-          <li><a href="contact.php">Contact</a></li>
+          <li><a href="contact.php">Contacto</a></li>
           <li><a class="get-a-quote" href="get-a-quote.php">Get a Quote</a></li>
         </ul>
       </nav><!-- .navbar -->
