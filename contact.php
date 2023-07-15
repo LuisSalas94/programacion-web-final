@@ -55,7 +55,7 @@
           <li><a href="computadoras.php">Computadoras</a></li>
           <li><a href="videojuegos.php">Videojuegos</a></li>
           <li><a href="multimedia.php" >Multimedia</a></li>
-          <li><a href="contact.php" class="active">Contacto</a></li>
+          <li><a href="contact.php" class="active">Contacto2</a></li>
           <li><a class="get-a-quote" href="get-a-quote.php">Get a Quote</a></li>
         </ul>
       </nav><!-- .navbar -->
